@@ -1,7 +1,3 @@
-<input type="button" value="-" id="butonMinus">
-<input type="text" value="" id="liczba">
-<input type="button" value="+" id="buttonPlus">
-
 var buttonPlus = document.getElementById("buttonPlus");
 var butonMinus = document.getElementById("butonMinus");
 var liczba = document.getElementById("liczba");
